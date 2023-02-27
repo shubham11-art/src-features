@@ -3,7 +3,7 @@ import React from "react";
 const Postreq = () => {
   return (
     <div>
-      <h1> remove origin</h1>
+      <h1> Pulling the information</h1>
       <table>
         <tr></tr>
       </table>
